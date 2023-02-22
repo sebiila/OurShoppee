@@ -1,0 +1,72 @@
+ .home-screen{
+    overflow-x: hidden;
+ }
+.offer-red{
+    background: var(--red);
+    color: var(--white);
+   
+}
+.view-more{
+    color: var(--blue);
+    background: var(--white);
+    border-radius: 3px;
+}
+.card{
+    width: 100%;
+    height: 100%;
+}
+.offerbuuton{
+    width: 30%;
+    border-radius: 4px;
+    text-align: center;
+}
+.Hot-deals{
+    border: 1px solid var(--yellow-border);
+    border-radius: 12px;
+    
+}
+.Hot-deals img{
+    width: 100%;
+    height: 100%;
+}
+.debit{
+    background: var(--light-pink);
+}
+.box{
+    border-radius: 8px;
+    border: 1px solid  #7D23C7;
+   width:7rem
+}
+.box img{
+    width: 100%;
+    height: 100%;
+}
+.debit-card{
+    background: var(--white);
+}
+.debit-card h4{
+color: var(--blue);
+}
+.debit-card img{
+    width: 100%;
+    height: 100%;
+}
+.interest{
+    background: var(--yellow-light);
+    color: var(--black);
+}
+.cross{
+    text-decoration: line-through;
+    color: var(--gray);
+}
+.links{
+    background: var(--light-gray);
+}
+.mobile{
+    background: var(--light-blue);
+}
+@media only screen and (max-width: 480px) {
+.sub-category img{
+transform: scale(0.8);
+}}
+.debit-card img{transform: scale(0.8);}

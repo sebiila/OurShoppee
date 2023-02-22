@@ -1,0 +1,18 @@
+export const top_brand = [
+    { src:  './Images/top-brands/image1.svg', alt: '' },
+    { src:  './Images/top-brands/image2.svg', alt: '' },
+    { src:  './Images/top-brands/image3.svg', alt: '' },
+    { src:  './Images/top-brands/image4.svg', alt: '' },
+    { src:  './Images/top-brands/image5.svg', alt: '' },
+    { src:  './Images/top-brands/image6.svg', alt: '' },
+    { src:  './Images/top-brands/image1.svg', alt: '' },
+    { src:  './Images/top-brands/image2.svg', alt: '' },
+    { src:  './Images/top-brands/image3.svg', alt: '' },
+    { src:  './Images/top-brands/image4.svg', alt: '' },
+    { src:  './Images/top-brands/image5.svg', alt: '' },
+    { src:  './Images/top-brands/image6.svg', alt: '' },
+    { src:  './Images/top-brands/image1.svg', alt: '' },
+    { src:  './Images/top-brands/image2.svg', alt: '' },
+    { src:  './Images/top-brands/image3.svg', alt: '' },
+    { src:  './Images/top-brands/image4.svg', alt: '' },
+]

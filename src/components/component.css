@@ -1,0 +1,23 @@
+.nav  {
+    background: var(--nav-gradient);
+    color: var(--white);
+}
+.nav  .form-control{
+    width: 100%;
+}
+.navbar-collapse a{
+    color: var(--black);
+}
+.add-to-cart{
+    border: 1px solid var(--yellow-border);
+    border-radius: 12px;
+    background-color: var(--white);
+    color: var(--yellow-border);
+}
+.footer-head{
+    color: var(--white);
+}
+/*Heading css*/
+.heading{
+color: var(--black)
+}
