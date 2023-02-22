@@ -45,7 +45,7 @@ function HotDeals() {
     <Swiper {...params}>
       {hot_deals.map((item, index) => (
         <SwiperSlide key={index} className='  open-sans-font '>
-         <div className="Hot-deals py-2">
+         <div className="Hot-deals py-3">
           <img src={item.cover} alt={`Slide ${index}`} />
           <div className="offer-red   bold"><h4>{item.offer_time}</h4></div>
           <p className='    medium '>{item.name}</p>
