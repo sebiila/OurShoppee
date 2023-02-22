@@ -58,6 +58,8 @@
 }
 .hideforbigscreen{
   display: none;
+}.showforsmalldevices{
+  display: none;
 }
 /*Typography*/
 h1{
